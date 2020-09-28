@@ -1,4 +1,4 @@
-# bereza ui kit
+# bereza ui kit generator
 
 It helps you parse figma project and transfer ui components to the code
 At this point it helps you to parse colors into sass/scss/less variables.
