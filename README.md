@@ -2,7 +2,7 @@
 
 Parse figma project and transfer ui components into the code.
 
-## Install
+## Install via npm
 
 `npm i bereza-ui-kit`
 
@@ -13,7 +13,7 @@ Find a link for the color page of the project you want to parse.
 
 `npx bereza -f <fileId> -n <nodeId> -t <token> -p <preprocessor>`
 
-## Example:
+## Example
 
 `https://www.figma.com/file/rQqY9OkcdzG6Iav6sePFoC/Klinker-system?node-id=0%3A1&viewport=-523%2C244%2C0.2316616048812366`
 
